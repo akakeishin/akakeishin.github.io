@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Hiroki Tanaka&#39; s Website</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Hiroki Tanaka&#39; s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About me Hiroki Tanaka is a member at Fujitsu Limited. I work in cyber security. I was received th MEng in Computer Science and Engineering from Waseda University in 2018. My research interests includes data mining, computer vision, human computer interaction.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description> 田中 博己，石山 雄大，上里 和也, 山名早人: ”Locality-Sensitive Hashingを用いた大規模な著者推定の高速化”, DEIM2016, E6-3, 2016 塩浦 尚久，田中 博己，山名 早人, “構図を用いた写真と絵画間の類似判定”, DEIM2017, B4-5, 2017. M. Takahashi, H. Tanaka, H. Yamana and T. Nakajima, “Virtual Co-Eating: Making Solitary Eating Experience More Enjoyable”, Proc. of International Conference on Entertainment Computing, pp. 460-464, 2017. 田中 博己，高須 淳宏，山名 早人, “MAP推定を用いた歩行者の位置情報予測 －POI推薦を目的として－”, DEIM2018, H5-4, 2018.  </description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Qualification / Scholarship</title>
+      <link>/home/achivements/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/achivements/</guid>
+      <description>Qualification Applied Information Technology Engineer Examination (AP) Get at Dec. 2013
+Information Security Specialist Examination (SC) Get at Jun. 2014
+Network Specialist Examination (NW) Get at Dec. 2015
+Cisco Certified Network Associate (CCNA) Get at Aug. 2013
+Scholarship Waseda University 125th Anniversary Scholarship (創立125周年記念奨学金) Win at 2014
+Fixstars Inc. Scholarship (フィックスターズ奨学金) Win at 2017</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Projects</title>
+      <link>/home/other_projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/other_projects/</guid>
+      <description>CUTTY SARK (人力飛行機) 2013・2014年鳥人間コンテスト向け飛行機制作、制御・計測開発リーダ
+コトノネドライブ iOS/Android向け音楽ゲーム。Unityでシステム開発担当
+田吾作 (Under Contruction) 光造形式3Dプリンタ。制御・3Dソフトウェア部分開発リーダ</description>
+    </item>
+    
+  </channel>
+</rss>

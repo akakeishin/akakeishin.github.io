@@ -145,6 +145,17 @@ Fixstars Inc. Scholarship (フィックスターズ奨学金) Win at 2017</descr
     </item>
     
     <item>
+      <title>Other Projects</title>
+      <link>/home/other_projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>/home/other_projects/</guid>
+      <description>CUTTY SARK (人力飛行機) 2013・2014年鳥人間コンテスト向け飛行機制作、制御・計測開発リーダ
+コトノネドライブ iOS/Android向け音楽ゲーム。Unityでシステム開発担当
+田吾作 (Under Contruction) 光造形式3Dプリンタ。制御・3Dソフトウェア部分開発リーダ</description>
+    </item>
+    
+    <item>
       <title>Tags</title>
       <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
@@ -160,17 +171,6 @@ Fixstars Inc. Scholarship (フィックスターズ奨学金) Win at 2017</descr
       
       <guid>/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Other Projects</title>
-      <link>/home/other_projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>/home/other_projects/</guid>
-      <description>CUTTY SARK (人力飛行機) 2013・2014年鳥人間コンテスト向け飛行機制作、制御・計測開発リーダ
-コトノネドライブ iOS/Android向け音楽ゲーム。Unityでシステム開発担当
-田吾作 (Under Contruction) 光造形式3Dプリンタ。制御・3Dソフトウェア部分開発リーダ</description>
     </item>
     
   </channel>

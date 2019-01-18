@@ -11,7 +11,7 @@ title = "Other Projects"
 subtitle = "創作物"
 
 # Order that this section will appear in.
-weight = 70
+weight = 61
 
 +++
 
